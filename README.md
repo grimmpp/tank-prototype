@@ -18,3 +18,7 @@ As first draft I use an arduino uno and a motor driver shield from Adeept like i
 64x track2.stl <br />
 
 All screws and nuts are changed to M3.
+
+<br />
+Same tank with simpleBaseFrame2_5cm.stl
+<img src="/pics/PHOTO_20191221_202339.jpg" width=600>
